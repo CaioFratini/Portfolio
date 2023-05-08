@@ -8,11 +8,11 @@
     scroll-behavior: smooth;
 }
 :root{
-    --bg-color: #161925;
-    --second-bg-color: #23395B;
-    --text-color: #CBF7ED;
-    --second-color:#ADD0D8;
-    --main-color: #406E8E;
+    --bg-color: #FFFFFF;
+    --second-bg-color: #000000;
+    --text-color: #423F71;
+    --second-color:#454545;
+    --main-color: #848484;
     --big-font: 5rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
