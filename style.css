@@ -8,11 +8,11 @@
     scroll-behavior: smooth;
 }
 :root{
-    --bg-color: #FFFFFF;
+    --bg-color: #9c9193;
     --second-bg-color: #000000;
-    --text-color: #423F71;
-    --second-color:#454545;
-    --main-color: #848484;
+    --text-color: #400fb1d2;
+    --second-color:#bdbae7;
+    --main-color: #cbbebe;
     --big-font: 5rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
@@ -258,7 +258,7 @@ header.sticky{
 }
 .read:hover{
     letter-spacing: 1px;
-    background: #ffffff99;
+    background: #e5d6d9;
     color: var(--text-color);
 }
 .box:hover{
